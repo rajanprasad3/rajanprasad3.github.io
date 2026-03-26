@@ -1,4 +1,4 @@
-# Rajan Prasad — Portfolio 🚀
+# Rajan Prasad Portfolio 🚀
 
 A personal portfolio website of **Rajan Prasad**, Data Analyst & Aspiring Data Scientist.
 
